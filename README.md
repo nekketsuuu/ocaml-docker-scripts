@@ -14,7 +14,7 @@ The script will then be installed in:
     `opam config var bin`/ocaml-docker-scripts
 
 They are all executed directly as a shell script by using the
-[OCamlScript](http://mjambon.com/ocamlscript.html) engine.  The installed
+[OCamlScript](https://github.com/mjambon/ocamlscript) engine.  The installed
 scripts are:
 
 - `dockerfile-ocaml`: installs base OCaml packages
